@@ -1,0 +1,16 @@
+##ProcessingServer: 
+  baseUrl: https://www.qa.wrapdev.net/index/
+  userName: testuser
+  password: testpwd
+  
+#qa:
+#  baseUrl: http://mcathue001iad.io.askjeeves.info:8080/
+#  userName: testuser
+#  password: testpwd
+
+#staging:
+#  baseUrl: http://mcathue001iad.io.askjeeves.info:8080/
+#  userName: testuser
+#  password: testpwd
+  
+     
